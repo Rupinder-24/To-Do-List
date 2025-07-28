@@ -25,11 +25,7 @@
     
   
 }
-.todo-app:hover{
-    
-    box-shadow: 0 0 50px  rgb(58, 56, 56);
-    border: 3px solid rgb(90, 69, 185);
-}
+
 .todo-app h2{
     color: #002765;
     display: flex;
